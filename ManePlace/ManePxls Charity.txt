@@ -1,0 +1,15 @@
+{
+"contact": "TheWaffleLord",
+"templates": [
+{
+"name": "ManePxls",
+"sources": [
+"https://raw.githubusercontent.com/TheWaffleLord37/ManePxls-Templates/refs/heads/main/ManePlace/ManePxls.png"
+],
+"x": 0,
+"y": 0
+}
+],
+"whitelist": [],
+"blacklist": []
+}
