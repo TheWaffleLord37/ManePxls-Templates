@@ -1,1 +1,1 @@
-Template image hosting for ManePxls.
+Image hosting for ManePxls templates.
