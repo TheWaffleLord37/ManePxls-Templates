@@ -1,0 +1,15 @@
+{
+"contact": "TheWaffleLord",
+"templates": [
+{
+"name": "Pix Spin",
+"sources": [
+"https://raw.githubusercontent.com/TheWaffleLord37/ManePxls-Templates/refs/heads/main/Bronyplace%202ya/Pix%20Spin.png"
+],
+"x": 0,
+"y": 0
+}
+],
+"whitelist": [],
+"blacklist": []
+}
