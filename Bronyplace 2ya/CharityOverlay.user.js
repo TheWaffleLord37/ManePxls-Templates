@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Charity Overlay
+// @name        Custom Charity Overlay
 // @namespace   faction.place
 // @description The most widely used overlay system on r/place.
 // @icon        https://raw.githubusercontent.com/PlaceCharity/Charity/main/app/userscript/assets/icon.png
