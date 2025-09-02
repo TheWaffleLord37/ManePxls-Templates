@@ -10,8 +10,8 @@
 // @run-at      document-idle
 // @connect     *
 // @allFrames   true
-// @downloadURL https://github.com/PlaceCharity/Charity/releases/latest/download/CharityOverlay.user.js
-// @updateURL   https://github.com/PlaceCharity/Charity/releases/latest/download/CharityOverlay.user.js
+// @downloadURL https://github.com/TheWaffleLord37/ManePxls-Templates/raw/refs/heads/main/place.aprilfools.live/Charity.user.js
+// @updateURL   https://github.com/TheWaffleLord37/ManePxls-Templates/raw/refs/heads/main/place.aprilfools.live/Charity.user.js
 // @supportURL  https://discord.gg/anBdazHcrH
 // @homepageURL https://discord.gg/anBdazHcrH
 // @license     MIT
